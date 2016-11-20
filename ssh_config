@@ -1,0 +1,5 @@
+# CAEN
+HOST ccs
+	HostName login.engin.umich.edu
+	User steelech
+	Compression yes
